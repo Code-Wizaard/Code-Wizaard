@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Code-Wizaard
 - 👀 I’m interested in Coding, Coffee and Play games
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning NaN
 - 💞️ I’m not looking to collaborate on
-- 📫 How to reach me on [t.me/CodeWizaard](Telegram), [https://join.skype.com/invite/NJskeyqYuqdt](Skype), (Discord), [ble.ir/CodeWizaard](Bale) and (eitaa)
+- 📫 How to reach me on [t.me/CodeWizaard](Telegram), [https://join.skype.com/invite/NJskeyqYuqdt](Skype), (Discord), [ble.ir/CodeWizaard](Bale)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: After any bug, a cup of coffee is neccessary
 
