@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Coffee and Play games
 - 🌱 I’m currently learning NaN
 - 💞️ I’m not looking to collaborate on
-- 📫 How to reach me on [t.me/CodeWizaard](Telegram), [ble.ir/CodeWizaard](Bale)
+- 📫 How to reach me on [t.me/CodeWizaard](Telegram), [bale](ble.ir/CodeWizaard)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: After any bug, a cup of coffee is neccessary
 
